@@ -3,5 +3,5 @@
     'server'   => 'localhost',
     'login'    => 'root',
     'password' => '',
-    'database' => 'shoppingListsPlanner'
+    'database' => 'lxtec-shopping-list'
    );

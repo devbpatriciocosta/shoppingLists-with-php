@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS `items`;
 DROP TABLE IF EXISTS `lists`;
 DROP TABLE IF EXISTS `accounts`;
 
--- Database name: shopping-list-php
+-- Database name: lxtec-shopping-list
 -- Table structure for table `items`
 --
 CREATE TABLE IF NOT EXISTS `items` (
@@ -17,15 +17,15 @@ CREATE TABLE IF NOT EXISTS `items` (
 -- Dumping data for table `items`
 --
 INSERT INTO `items` (`id`, `name`) VALUES
-(4, 'cerveja'),
-(1, 'pao'),
-(2, 'manteiga'),
-(5, 'chocolate'),
-(9, 'macarrao instantaneo'),
-(3, 'leite'),
-(6, 'costela de porco'),
-(8, 'batata'),
-(7, 'tomate');
+(4, 'Cerveja'),
+(1, 'Pão'),
+(2, 'Manteiga'),
+(5, 'Chocolate'),
+(9, 'Miojo'),
+(3, 'Leite'),
+(6, 'Costela de porco'),
+(8, 'Batata'),
+(7, 'Tomate');
 
 --
 -- Table structure for table `list`
