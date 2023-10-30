@@ -101,7 +101,7 @@ function processListLoad(content) {
         // Clear button.
         let clearButton = document.createElement("input");
         clearButton.setAttribute("type", "button");
-        clearButton.setAttribute("value", "Clear");
+        clearButton.setAttribute("value", "Limpar");
         clearButton.classList.add("yellow");
         clearButton.addEventListener('click', function(event) {
             let inputs = lastRow.getElementsByTagName("input");
