@@ -18,7 +18,7 @@
 
 4) Acesse o [PHPmyAdmin] através do [Dashboard] do [localhost]; 
 
-5) Na barra de opções superior, acesse [importar] e escolha o [arquivo] (db.sql) presente na pasta [DB] desse projeto;
+5) Na barra de opções superior, acesse [importar] e escolha o [arquivo] (db_schema.sql) presente na pasta [DB] desse projeto;
 
 6) Acesse http://localhost:8080/main-magazord-backend-test-main/ para acessar o projeto. 
 
