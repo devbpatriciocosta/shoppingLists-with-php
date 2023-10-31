@@ -29,10 +29,10 @@
                         <li id="create_new_list"><a>Criar uma nova lista</a></li>
                     </ul>
                     <ul>
-                        <li id="search"><a href="searchLists.php">Buscar por listas para ver seus itens</a></li>
+                        <li id="search"><a href="searchLists.php">Busque suas listas, veja seus itens</a></li>
                     </ul>
                     <ul>
-                        <li id="search"><a href="searchItems.php">Buscar por itens e ver em quais listas estão presentes</a></li>
+                        <li id="search"><a href="searchItems.php">Verifique em quais listas seus itens estão</a></li>
                     </ul>
                     <span id="lists_message"></span>
                 </div>
