@@ -32,7 +32,7 @@
 2. Você será direcionado para o index.php que é responsável por fazer login e cadastro de usuário;
 3. O login é simples, pois possui apenas 3 fields (Nome Completo, Usuário e senha), porém, essa senha utiliza HASH;
 4. Ao fazer o cadastro de usuário é necessário fazer o login.
-   (Caso não deseje fazer o cadastro, é possível utilizar os dados de acesso abaixo que já conta om listas e itens já criados por mim.
+   (Caso não deseje fazer o cadastro, é possível utilizar os dados de acesso abaixo que já conta com listas e itens já criados por mim.
    
  - Dados de acesso
 
