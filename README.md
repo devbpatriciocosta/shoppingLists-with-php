@@ -18,11 +18,12 @@
 
 4) Acesse o [PHPmyAdmin] através do [Dashboard] do [localhost]; 
 
-5) Na barra de opções superior, acesse [importar] e escolha o [arquivo] (db_schema.sql) presente na pasta [DB] desse projeto;
+5) Na barra de opções superior, acesse [importar] e escolha o [arquivo] (db_schema.sql) ou (lxtec-shopping-list.sql) presente na pasta [DB] desse projeto;
+   (O segundo DB Schema é caso queira utilizar as listas criadas por mim durante a produção do projeto);
 
-6) Acesse http://localhost:8080/main-magazord-backend-test-main/ para acessar o projeto. 
+7) Acesse http://localhost:9090/shopping-lists-php para acessar o projeto;
 
-7) Para iniciar sessão basta inserir os dados de [login] e [senha]: Murilo / Murilo (Meu filho, hahaha :)) , respectivamente.
+8) Para iniciar sessão basta inserir os dados de [login] e [senha]: Murilo / Murilo (Meu filho, hahaha :)) , respectivamente.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Como usar:
