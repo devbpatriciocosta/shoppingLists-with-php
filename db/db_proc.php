@@ -256,7 +256,7 @@
             }
 
             if (!$this->process_query("DELETE FROM `list` WHERE `id`=${id} AND `list_id`=${list_id}")) {
-                throw new Exception("Não foi possível remover esse item.");
+                throw new Exception("Item removido.");
             }         
 
             return array('id' => $id);
