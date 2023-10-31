@@ -94,7 +94,7 @@ function processListLoad(content) {
         // Add button.
         let submitButton = document.createElement("input");
         submitButton.setAttribute("type", "submit");
-        submitButton.setAttribute("value", "Add");
+        submitButton.setAttribute("value", "Adicionar");
         submitButton.classList.add("green");
         buttonsEntry.appendChild(submitButton);
         

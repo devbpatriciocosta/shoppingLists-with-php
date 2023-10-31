@@ -141,7 +141,7 @@
             $list_result = $list->fetch_assoc();
 
             if ($list_result == NULL) {
-                throw new Exception("Clique na lista recém criada para adicionar itens!");
+                throw new Exception("Clique no nome da lista para adicionar itens!");
             }
 
             $result = $this->process_query("SELECT * FROM `list` WHERE `list_id`=${id} ORDER BY `position` ASC");
